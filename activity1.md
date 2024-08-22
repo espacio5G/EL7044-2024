@@ -1,0 +1,29 @@
+# Activity 1
+Topics for problem formulations in week 3 class activity are given below.
+
+# Pure Aloha
+(https://github.com/Sorrop/aloha-sim)
+Paper Title: Online Backoff Control of Unslotted ALOHA with Collision Resolution
+https://ieeexplore.ieee.org/document/10008707
+
+ 
+# Slotted Aloha
+(https://github.com/sjkywalker/slotted-aloha-simulator)
+Paper Title: On the Use of Backoff Algorithms in Slotted ALOHA LoRaWAN Networks
+https://ieeexplore.ieee.org/document/9232577
+
+# CSMA-CD
+(https://github.com/thanujann/CSMA-CD-Protocol-Simulator)
+Paper Title: Implementation of CSMA/CD and Link State Routing Protocols for Dijkstra Algorithm
+https://ieeexplore.ieee.org/document/10292084
+
+
+# CSMA-CA
+(https://github.com/StevenSLXie/CSMA-Simulator)
+Paper Title: Implementation of CSMA/CA state diagram for swarm drone network
+https://ieeexplore.ieee.org/document/9621164
+
+
+# Controlled access (reservation/polling/token passing)
+Paper Title: A Centralized Token-based Medium Access Control Mechanism for Wireless Network-on-Chip
+https://ieeexplore.ieee.org/document/9497802
