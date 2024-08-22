@@ -11,24 +11,24 @@ Challenges and application of vehicle to infrastructure (v2v, intra-vehicular, v
 
 ## Topics of Week 3:
 
-Tuesday, 20th August: Wireless network access protocols (Random access protocols, controlled access protocols, channelization protocols)
+Tuesday, 20th August: Wireless network access protocols (random access protocols, controlled access protocols, channelization protocols)
 
-Thursday, 22nd August: Problem formulation Activity 1 ( https://github.com/espacio5G/EL7044-2024/blob/main/activity1.md )
+Thursday, 22nd August: Problem formulation activity 1 ( https://github.com/espacio5G/EL7044-2024/blob/main/activity1.md )
 
 ## Topics of Week 4:
 
-Tuesday, 27th August: 4G and 5G cellular network architecture, IEEE 802.11 WLAN applications, Fixed network access protocols
+Tuesday, 27th August: 4G and 5G cellular network architecture, IEEE 802.11 WLAN applications, fixed network access protocols
 
 Thursday, 29th August: 6G (On the road to 6G: Visions, Requirements, Key Technologies and Testbeds)
 
 ## Topics of Week 5:
 
-Tuesday, 3rd September: Routing Protocols (Shortest path routing, flooding, DVRP, LSR, hierarchical routing, broadcast routing, multicast routing, routing for mobile hosts, routing in Ad Hoc networks, node lookup in Peer-to-peer networks)
+Tuesday, 3rd September: Routing Protocols (shortest path routing, flooding, DVRP, LSR, hierarchical routing, broadcast routing, multicast routing, routing for mobile hosts, routing in Ad Hoc networks, node lookup in peer-to-peer networks)
 
-Thursday, 5th September: Problem formulation Activity 2
+Thursday, 5th September: Problem formulation activity 2
 
 ## Topics of Week 6:
 
-Tuesday, 10th September: Case Studies on Project Topics, Talk_01
+Tuesday, 10th September: Case studies on project topics, talk 01
 
-Thursday, 12th September: Case Studies on Project Topics, Talk_02
+Thursday, 12th September: Case studies on project topics, talk 02
