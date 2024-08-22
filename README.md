@@ -13,7 +13,7 @@ Challenges and application of vehicle to infrastructure (v2v, intra-vehicular, v
 
 Tuesday, 20th August: Wireless network access protocols (Random access protocols, controlled access protocols, channelization protocols)
 
-Thursday, 22nd August: Problem formulation Activity 1
+Thursday, 22nd August: Problem formulation Activity 1 ( https://github.com/espacio5G/EL7044-2024/blob/main/activity1.md )
 
 ## Topics of Week 4:
 
