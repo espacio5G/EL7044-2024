@@ -27,3 +27,5 @@ https://ieeexplore.ieee.org/document/9621164
 # Controlled access (reservation/polling/token passing)
 Paper Title: A Centralized Token-based Medium Access Control Mechanism for Wireless Network-on-Chip
 https://ieeexplore.ieee.org/document/9497802
+
+Alberto Castro Slides: https://github.com/espacio5G/EL7044-2024/blob/1df79d43b20f4cc058471530f787d358932e5c36/activity1/A%20Centralized%20Token-based%20Medium%20Access%20Control%20Mechanism%20for%20Wireless%20Network-on-Chip.pdf
