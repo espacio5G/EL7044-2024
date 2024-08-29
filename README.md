@@ -29,6 +29,6 @@ Thursday, 5th September: Problem formulation activity 2
 
 ## Topics of Week 6:
 
-Tuesday, 10th September: Case studies on project topics, talk 01
+Tuesday, 10th September: Case studies on project topics, talk 01 by Shaharyar Kamal (MATLAB)
 
-Thursday, 12th September: Case studies on project topics, talk 02
+Thursday, 12th September: Case studies on project topics, talk 02 by Jorge Sandoval (NS3)
