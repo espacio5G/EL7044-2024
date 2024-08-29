@@ -23,7 +23,7 @@ Thursday, 29th August: 6G (On the road to 6G: Visions, Requirements, Key Technol
 
 ## Topics of Week 5:
 
-Tuesday, 3rd September: Routing Protocols (shortest path routing, flooding, DVRP, LSR, hierarchical routing, broadcast routing, multicast routing, routing for mobile hosts, routing in Ad Hoc networks, node lookup in peer-to-peer networks)
+Tuesday, 3rd September: Routing Protocols (shortest path routing, flooding, DVRP, LSR, hierarchical routing, broadcast routing, multicast routing, routing for mobile hosts, routing in Ad Hoc networks, node lookup in peer-to-peer networks) (6G.pdf)
 
 Thursday, 5th September: Problem formulation activity 2
 
