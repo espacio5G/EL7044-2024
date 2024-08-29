@@ -19,11 +19,11 @@ Thursday, 22nd August: Problem formulation activity 1 ( https://github.com/espac
 
 Tuesday, 27th August: 4G and 5G cellular network architecture, IEEE 802.11 WLAN applications, fixed network access protocols
 
-Thursday, 29th August: 6G (On the road to 6G: Visions, Requirements, Key Technologies and Testbeds)
+Thursday, 29th August: 6G (On the road to 6G: Visions, Requirements, Key Technologies and Testbeds) (https://github.com/espacio5G/EL7044-2024/blob/d7df52f007fd0a4a00c96e6e623e817e4a424159/6G.pdf)
 
 ## Topics of Week 5:
 
-Tuesday, 3rd September: Routing Protocols (shortest path routing, flooding, DVRP, LSR, hierarchical routing, broadcast routing, multicast routing, routing for mobile hosts, routing in Ad Hoc networks, node lookup in peer-to-peer networks) (6G.pdf)
+Tuesday, 3rd September: Routing Protocols (shortest path routing, flooding, DVRP, LSR, hierarchical routing, broadcast routing, multicast routing, routing for mobile hosts, routing in Ad Hoc networks, node lookup in peer-to-peer networks)
 
 Thursday, 5th September: Problem formulation activity 2
 
