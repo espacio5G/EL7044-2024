@@ -35,3 +35,7 @@ https://ieeexplore.ieee.org/document/9756551
 Paper Title: A Smart Collaborative Routing Protocol for Delay Sensitive Applications in Industrial IoT
 
 https://ieeexplore.ieee.org/document/8949516
+
+# Student Works
+
+[Activity2](https://github.com/espacio5G/EL7044-2024/tree/main/activity2)
