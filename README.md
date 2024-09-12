@@ -32,3 +32,27 @@ Thursday, 5th September: Problem formulation activity 2 ( https://github.com/esp
 Tuesday, 10th September: Case studies on project topics, talk 01 by Shaharyar Kamal (MATLAB)
 
 Thursday, 12th September: Case studies on project topics, talk 02 by Jorge Sandoval (NS3)
+
+## Topics of Week 7:
+
+Tuesday, 24th September: No Class
+
+Thursday, 26th September: No Class
+
+## Topics of Week 8:
+
+Tuesday, 1st October: Project Proposal Presentation Session-I
+
+Thursday, 3rd October: Project Proposal Presentation Session-II
+
+## Topics of Week 9:
+
+Tuesday, 8th October: Advanced Topics-I (Location Awareness and Positioning)
+
+Thursday, 10th October: Advanced Topics-I (Digital Twin)
+
+## Topics of Week 10:
+
+Tuesday, 15th October: Mobility (Mobile IP)
+
+Thursday, 17th October: Problem formulation activity 3
