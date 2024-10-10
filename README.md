@@ -47,9 +47,9 @@ Thursday, 3rd October: Project Proposal Presentation Session-II
 
 ## Topics of Week 9:
 
-Tuesday, 8th October: Advanced Topics-I Location Awareness and Positioning
+Tuesday, 8th October: Advanced Topics-I Location Awareness and Positioning (https://github.com/espacio5G/EL7044-2024/blob/e06d73da5e5c267ff409a6100e33ed271b1fa3a7/Location%20Awareness.pdf)
 
-Thursday, 10th October: Advanced Topics-I Digital Twin
+Thursday, 10th October: Advanced Topics-I Digital Twin (https://github.com/espacio5G/EL7044-2024/blob/e06d73da5e5c267ff409a6100e33ed271b1fa3a7/Digital%20Twin.pdf)
 
 ## Topics of Week 10:
 
