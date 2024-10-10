@@ -47,9 +47,9 @@ Thursday, 3rd October: Project Proposal Presentation Session-II
 
 ## Topics of Week 9:
 
-Tuesday, 8th October: Advanced Topics-I (Location Awareness and Positioning)
+Tuesday, 8th October: Advanced Topics-I Location Awareness and Positioning
 
-Thursday, 10th October: Advanced Topics-I (Digital Twin)
+Thursday, 10th October: Advanced Topics-I Digital Twin
 
 ## Topics of Week 10:
 
