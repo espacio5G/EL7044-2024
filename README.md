@@ -55,4 +55,4 @@ Thursday, 10th October: Advanced Topics-I Digital Twin (https://github.com/espac
 
 Tuesday, 15th October: Mobility (Mobile IP)
 
-Thursday, 17th October: Problem formulation activity 3
+Thursday, 17th October: Problem formulation activity 3 ( https://github.com/espacio5G/EL7044-2024/blob/5d3eb56ff0f8deef410d99e9d1109d9128edac66/activity3 )
