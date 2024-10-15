@@ -56,3 +56,44 @@ Thursday, 10th October: Advanced Topics-I Digital Twin (https://github.com/espac
 Tuesday, 15th October: Mobility (Mobile IP)
 
 Thursday, 17th October: Problem formulation activity 3 ( https://github.com/espacio5G/EL7044-2024/blob/f1090f210348e02c15c643d59a5245ef632e9d94/activity3.md )
+
+## Topics of Week 11:
+
+Tuesday, 22nd October: Advanced Topics-II mmWave Radar HAR
+
+Thursday, 24th October: Advanced Topics-II Integrated Sensing and Communication
+
+## Topics of Week 12: (Project Break!)
+
+Tuesday, 5th November: No Class
+
+Thursday, 7th November: No Class
+
+## Topics of Week 13:
+
+Tuesday, 12th November: Project Presentation Session-I
+
+Thursday, 14th November: Project Presentation Session-II
+
+## Topics of Week 14:
+
+Tuesday, 19th November: Advanced Topics-III Wireless Security (Block Chain)
+
+Thursday, 21st November: Advanced Topics-III Prof. Jorge to Present
+
+## Topics of Week 15:
+
+Tuesday, 26th November: Class Discussion
+
+Thursday, 28th November: Class Discussion
+
+## Topics of Week 16:
+
+Tuesday, 3rd December: Camera Ready Conference Paper Submission and Grading
+
+Thursday, 5th December: Camera Ready Conference Paper Submission and Grading
+
+
+
+
+
