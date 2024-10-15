@@ -79,7 +79,7 @@ Thursday, 14th November: Project Presentation Session-II
 
 Tuesday, 19th November: Advanced Topics-III Wireless Security (Block Chain)
 
-Thursday, 21st November: Advanced Topics-III Prof. Jorge to Present
+Thursday, 21st November: Advanced Topics-III Prof. Jorge Sandoval to Present
 
 ## Topics of Week 15:
 
