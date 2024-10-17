@@ -71,15 +71,15 @@ Thursday, 7th November: No Class
 
 ## Topics of Week 13:
 
-Tuesday, 12th November: Project Presentation Session-I
+Tuesday, 12th November: Advanced Topics-III Wireless Security (Block Chain)
 
-Thursday, 14th November: Project Presentation Session-II
+Thursday, 14th November: Advanced Topics-III Prof. Jorge Sandoval to Present
 
 ## Topics of Week 14:
 
-Tuesday, 19th November: Advanced Topics-III Wireless Security (Block Chain)
+Tuesday, 19th November: Project Presentation Session-I
 
-Thursday, 21st November: Advanced Topics-III Prof. Jorge Sandoval to Present
+Thursday, 21st November: Project Presentation Session-II
 
 ## Topics of Week 15:
 
