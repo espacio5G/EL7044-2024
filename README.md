@@ -29,7 +29,7 @@ Thursday, 5th September: Problem formulation activity 2 ( https://github.com/esp
 
 ## Topics of Week 6:
 
-Tuesday, 10th September: Case studies on project topics, talk 01 by Shaharyar Kamal (MATLAB)
+Tuesday, 10th September: Case studies on project topics, talk 01 by Shaharyar Kamal (MATLAB: https://drive.google.com/file/d/1J5zvPMuJdQ8dYx18xZNVvuu4aMePlkiG/view?usp=sharing) 
 
 Thursday, 12th September: Case studies on project topics, talk 02 by Jorge Sandoval (NS3)
 
@@ -59,9 +59,9 @@ Thursday, 17th October: Problem formulation activity 3 ( https://github.com/espa
 
 ## Topics of Week 11:
 
-Tuesday, 22nd October: Advanced Topics-II mmWave Radar HAR
+Tuesday, 22nd October: Advanced Topics-II mmWave Radar HAR (https://github.com/espacio5G/EL7044-2024/blob/8d175947e4e40ac918761fee4d79a456a3c448cc/mmWave%20Radar.pdf)
 
-Thursday, 24th October: Advanced Topics-II Integrated Sensing and Communication
+Thursday, 24th October: Advanced Topics-II Integrated Sensing and Communication (https://github.com/espacio5G/EL7044-2024/blob/8d175947e4e40ac918761fee4d79a456a3c448cc/ISAC.pdf)
 
 ## Topics of Week 12: (Project Break!)
 
