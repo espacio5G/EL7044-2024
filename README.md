@@ -11,87 +11,87 @@ Challenges and application of vehicle to infrastructure (v2v, intra-vehicular, v
 
 ## Topics of Week 3:
 
-Tuesday, 20th August: Wireless network access protocols (random access protocols, controlled access protocols, channelization protocols)
+Tuesday, 19th August: Wireless network access protocols (random access protocols, controlled access protocols, channelization protocols)
 
-Thursday, 22nd August: Problem formulation activity 1 ( https://github.com/espacio5G/EL7044-2024/blob/main/activity1.md )
+Thursday, 21nd August: Problem formulation activity 1 ( https://github.com/espacio5G/EL7044-2024/blob/main/activity1.md )
 
 ## Topics of Week 4:
 
-Tuesday, 27th August: 4G and 5G cellular network architecture, IEEE 802.11 WLAN applications, fixed network access protocols
+Tuesday, 26th August: 4G and 5G cellular network architecture, IEEE 802.11 WLAN applications, fixed network access protocols
 
-Thursday, 29th August: 6G (On the road to 6G: Visions, Requirements, Key Technologies and Testbeds) (https://github.com/espacio5G/EL7044-2024/blob/d7df52f007fd0a4a00c96e6e623e817e4a424159/6G.pdf)
+Thursday, 28th August: 6G (On the road to 6G: Visions, Requirements, Key Technologies and Testbeds) (https://github.com/espacio5G/EL7044-2024/blob/d7df52f007fd0a4a00c96e6e623e817e4a424159/6G.pdf)
 
 ## Topics of Week 5:
 
-Tuesday, 3rd September: Routing Protocols for Wireless Networks i.e, Mobile Ad-hoc Networks (MANETs), Wireless Sensor Networks (WSNs), Vehicule Ad-hoc Networks (VANETs)
+Tuesday, 2nd September: Routing Protocols for Wireless Networks i.e, Mobile Ad-hoc Networks (MANETs), Wireless Sensor Networks (WSNs), Vehicule Ad-hoc Networks (VANETs)
 
-Thursday, 5th September: Problem formulation activity 2 ( https://github.com/espacio5G/EL7044-2024/blob/975952bb4a85f841ad8577805639c01ac84d7032/activity2.md )
+Thursday, 4th September: Problem formulation activity 2 ( https://github.com/espacio5G/EL7044-2024/blob/975952bb4a85f841ad8577805639c01ac84d7032/activity2.md )
 
 ## Topics of Week 6:
 
-Tuesday, 10th September: Case studies on project topics, talk 01 by Shaharyar Kamal (MATLAB: https://drive.google.com/file/d/1J5zvPMuJdQ8dYx18xZNVvuu4aMePlkiG/view?usp=sharing) 
+Tuesday, 9th September: Case studies on project topics, talk 01 by Shaharyar Kamal (MATLAB: https://drive.google.com/file/d/1J5zvPMuJdQ8dYx18xZNVvuu4aMePlkiG/view?usp=sharing) 
 
-Thursday, 12th September: Case studies on project topics, talk 02 by Jorge Sandoval (NS3)
+Thursday, 11th September: Case studies on project topics, talk 02 by Jorge Sandoval (NS3)
 
 ## Topics of Week 7:
 
-Tuesday, 24th September: No Class
+Tuesday, 23rd September: No Class
 
-Thursday, 26th September: No Class
+Thursday, 25th September: No Class
 
 ## Topics of Week 8:
 
-Tuesday, 1st October: Project Proposal Presentation Session-I
+Tuesday, 30th September: Project Proposal Presentation Session-I
 
-Thursday, 3rd October: Project Proposal Presentation Session-II
+Thursday, 2nd October: Project Proposal Presentation Session-II
 
 ## Topics of Week 9:
 
-Tuesday, 8th October: Advanced Topics-I Location Awareness and Positioning (https://github.com/espacio5G/EL7044-2024/blob/e06d73da5e5c267ff409a6100e33ed271b1fa3a7/Location%20Awareness.pdf)
+Tuesday, 7th October: Advanced Topics-I Location Awareness and Positioning (https://github.com/espacio5G/EL7044-2024/blob/e06d73da5e5c267ff409a6100e33ed271b1fa3a7/Location%20Awareness.pdf)
 
-Thursday, 10th October: Advanced Topics-I Digital Twin (https://github.com/espacio5G/EL7044-2024/blob/e06d73da5e5c267ff409a6100e33ed271b1fa3a7/Digital%20Twin.pdf)
+Thursday, 9th October: Advanced Topics-I Digital Twin (https://github.com/espacio5G/EL7044-2024/blob/e06d73da5e5c267ff409a6100e33ed271b1fa3a7/Digital%20Twin.pdf)
 
 ## Topics of Week 10:
 
-Tuesday, 15th October: Mobility (Mobile IP)
+Tuesday, 14th October: Mobility (Mobile IP)
 
-Thursday, 17th October: Problem formulation activity 3 ( https://github.com/espacio5G/EL7044-2024/blob/f1090f210348e02c15c643d59a5245ef632e9d94/activity3.md )
+Thursday, 16th October: Problem formulation activity 3 ( https://github.com/espacio5G/EL7044-2024/blob/f1090f210348e02c15c643d59a5245ef632e9d94/activity3.md )
 
 ## Topics of Week 11:
 
-Tuesday, 22nd October: Advanced Topics-II mmWave Radar HAR (https://github.com/espacio5G/EL7044-2024/blob/8d175947e4e40ac918761fee4d79a456a3c448cc/mmWave%20Radar.pdf)
+Tuesday, 21st October: Advanced Topics-II mmWave Radar HAR (https://github.com/espacio5G/EL7044-2024/blob/8d175947e4e40ac918761fee4d79a456a3c448cc/mmWave%20Radar.pdf)
 
-Thursday, 24th October: Advanced Topics-II Integrated Sensing and Communication (https://github.com/espacio5G/EL7044-2024/blob/8d175947e4e40ac918761fee4d79a456a3c448cc/ISAC.pdf)
+Thursday, 23rd October: Advanced Topics-II Integrated Sensing and Communication (https://github.com/espacio5G/EL7044-2024/blob/8d175947e4e40ac918761fee4d79a456a3c448cc/ISAC.pdf)
 
 ## Topics of Week 12: (Project Break!)
 
-Tuesday, 5th November: No Class
+Tuesday, 4th November: No Class
 
-Thursday, 7th November: No Class
+Thursday, 6th November: No Class
 
 ## Topics of Week 13:
 
-Tuesday, 12th November: Advanced Topics-III Wireless Security (Block Chain)
+Tuesday, 11th November: Advanced Topics-III Wireless Security (Block Chain)
 
-Thursday, 14th November: Advanced Topics-III Prof. Jorge Sandoval to Present
+Thursday, 13th November: Advanced Topics-III Prof. Jorge Sandoval to Present
 
 ## Topics of Week 14:
 
-Tuesday, 19th November: Project Presentation Session-I
+Tuesday, 18th November: Project Presentation Session-I
 
-Thursday, 21st November: Project Presentation Session-II
+Thursday, 20th November: Project Presentation Session-II
 
 ## Topics of Week 15:
 
-Tuesday, 26th November: Class Discussion
+Tuesday, 25th November: Class Discussion
 
-Thursday, 28th November: Class Discussion
+Thursday, 27th November: Class Discussion
 
 ## Topics of Week 16:
 
-Tuesday, 3rd December: Camera Ready Conference Paper Submission and Grading
+Tuesday, 2nd December: Camera Ready Conference Paper Submission and Grading
 
-Thursday, 5th December: Camera Ready Conference Paper Submission and Grading
+Thursday, 4th December: Camera Ready Conference Paper Submission and Grading
 
 
 
