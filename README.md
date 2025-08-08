@@ -1,4 +1,4 @@
-# EL7044-2024
+# EL7044-2025
 Conceptos Avanzados en Redes Inalámbricas
 
 ## Topics of Week 1:
